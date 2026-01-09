@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/waf.md",
+                "file": "posts/warden-worker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "waf"
+              "title": "warden-worker"
             }
           }
         ]
@@ -171,6 +171,10 @@
   },
   "active": "96b79d1156396696",
   "lastOpenFiles": [
+    "assets/images/warden-worker-23.png",
+    "assets/images/warden-worker-22.png",
+    "assets/images/warden-worker-21.png",
+    "posts/waf.md",
     "assets/images/MermaidChart-Createcomplexvisualdiagramswithtext-2026-01-09-031619.png",
     "assets/images/MermaidChart-Createcomplex,visualdiagramswithtext.-2026-01-09-031619.png",
     "assets/images/msedge_HwStEUKYVx1.gif",
@@ -179,11 +183,7 @@
     "assets/images/waf-7.png",
     "assets/images/waf-6.png",
     "assets/images/waf-5.png",
-    "assets/images/waf-4.png",
-    "assets/images/waf-3.png",
-    "assets/images/waf-2.png",
     "posts/shorter-url.md",
-    "posts/waf.md",
     "posts/double-monitior.md",
     "posts/uptimeflare.md",
     "posts/netlify-vercel-proxy.md",
